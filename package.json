@@ -1,5 +1,5 @@
 {
-  "name": "the-pad-pass",
+  "name": "planet-granite-pass",
   "description": "Passbook generator frontend",
   "version": "1.0.0",
   "author": "Cory Mayer <cory@coryamayer.com>",
@@ -39,6 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/corymayer/PGPass"
   }
 }

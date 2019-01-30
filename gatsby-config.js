@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Pad Apple Wallet Pass',
+    title: 'Planet Granite Apple Wallet Pass',
   },
-  pathPrefix: "/ThePadPass",
+  pathPrefix: "/PGPass",
   plugins: [
     'gatsby-plugin-react-helmet',
     {
