@@ -11,9 +11,9 @@ import PageFinished from '../components/page-finished'
 import Paper from '@material-ui/core/Paper';
 import Button from '@material-ui/core/Button';
 
-const passGenerateURLBase = "https://qsohh8av3a.execute-api.us-west-2.amazonaws.com/dev?";
+const passGenerateURLBase = "https://4cnelbw3ee.execute-api.us-west-2.amazonaws.com/dev?";
 
-ReactGA.initialize('UA-109935078-1');
+ReactGA.initialize('UA-109935078-3');
 
 class IndexPage extends React.Component {
   state = {
